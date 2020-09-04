@@ -1,0 +1,12 @@
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\bin\Debug\netstandard2.0\Lecom.DAL.deps.json
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\bin\Debug\netstandard2.0\Lecom.DAL.dll
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\bin\Debug\netstandard2.0\Lecom.DAL.pdb
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\bin\Debug\netstandard2.0\Lecom.Model.dll
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\bin\Debug\netstandard2.0\Lecom.Model.pdb
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.csprojAssemblyReference.cache
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.AssemblyInfoInputs.cache
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.AssemblyInfo.cs
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.csproj.CopyComplete
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.dll
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.pdb
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.DAL\obj\Debug\netstandard2.0\Lecom.DAL.csproj.CoreCompileInputs.cache

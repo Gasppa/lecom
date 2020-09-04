@@ -1,0 +1,9 @@
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\bin\Debug\netstandard2.0\Lecom.Model.deps.json
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\bin\Debug\netstandard2.0\Lecom.Model.dll
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\bin\Debug\netstandard2.0\Lecom.Model.pdb
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\obj\Debug\netstandard2.0\Lecom.Model.AssemblyInfoInputs.cache
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\obj\Debug\netstandard2.0\Lecom.Model.AssemblyInfo.cs
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\obj\Debug\netstandard2.0\Lecom.Model.csproj.CoreCompileInputs.cache
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\obj\Debug\netstandard2.0\Lecom.Model.dll
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\obj\Debug\netstandard2.0\Lecom.Model.pdb
+C:\Users\victor.gasparoni\source\repos\LECOM\Lecom.Model\obj\Debug\netstandard2.0\Lecom.Model.csprojAssemblyReference.cache
