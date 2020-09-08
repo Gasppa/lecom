@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  produtivo.api:
+    image: ${DOCKER_REGISTRY-}produtivoapi
+    build:
+      context: .
+      dockerfile: Produtivo.Api/Dockerfile

@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  produtivo.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:44391
+      - ASPNETCORE_HTTPS_PORT=44391
+      - ASPNETCORE_Kestrel__Certificates__Default__Password=${ASPNETCORE_KESTREL_CERTIFICATE_PASSWORD}
+      - ASPNETCORE_Kestrel__Certificates__Default__Path=/https/certifiacte.pfx
+    ports:
+      - "44391:44391"
+    volumes:
+      - ./conf.d/https/:/https/
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
